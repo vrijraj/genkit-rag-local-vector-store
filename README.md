@@ -7,7 +7,7 @@ Firebase Genkit is an open-source framework that helps you build, deploy, and mo
 
 Here, We'll use a PDF file having Avengers (comics) info and use RAG.
 
-Codelab: 
+Codelab: https://gradus.dev/labs/retrieval-augmented-generation-(rag)-with-genkit-1B4vN2
 
 ## Resources:
 1. [Getting Started with Genkit](https://gradus.dev/labs/getting-started-with-genkit-(version-0.9)-XmKjXD)
